@@ -1,25 +1,22 @@
-# myfiles <br> <br>
-This are my dwm files<br><br>
+# myfiles <br> 
+This are my dwm files<br>
 You could see all the pathches in the patch directory 
 <br>
-<br>
-
 there are some steps for creating .dwm file and all that i hope u have done that <br> 
-<br> & you are only here for some files
-<br> <br> 
-to install it <br> <br> 
+<br> & you are only here for some file <br> 
+to install it <br> 
 git clone https://github.com/aniket-png/myfiles.git
-<br> <br> then
+<br>  then
 <br> 
 cd dmenu
-<br> <br> sudo make install 
-<br> <br> cd ..<br> 
-cd dwm <br> <br> 
-<br> <br> sudo make install
-cd ..<br> <br> 
-<br> <br> cd st
-<br> <br> sudo make install
-<br> <br> 
+<br> sudo make install 
+<br>  cd ..<br> 
+cd dwm  <br> 
+<br>  sudo make install
+cd ..<br>  
+<br>  cd st
+<br>  sudo make install
+<br> 
 &You are done
 
 for dwm blocks paste the scripts in local/bin
