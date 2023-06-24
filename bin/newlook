@@ -1,6 +1,0 @@
-#!/bin/sh
-
-wall=$(find ~/Pictures/picky-wallpaper -type f -name "*.jpg" -o -name "*.png" | shuf -n1)
-wal -c
-wal -i $wall
-xdotool key super+F5
